@@ -1,0 +1,20 @@
+{
+  "tokens": [
+    "TOKEN 1 ( GİZLEMEYİ HENÜZ BİZ DE BULAMADIK ! )",
+    "TOKEN 1 ( GİZLEMEYİ HENÜZ BİZ DE BULAMADIK ! )",
+    "TOKEN 1 ( GİZLEMEYİ HENÜZ BİZ DE BULAMADIK ! )"],
+
+  "channels": [
+    "1. BOTUN SES KANALI ID",
+    "2. BOTUN SES KANALI ID",
+    "3. BOTUN SES KANALI ID"],
+
+  "staffRoles": [
+    "YETKILI ROL ID"],
+
+  "unregisterRoles": [
+    "KAYITSIZ ROL ID"],
+  
+  "welcomeSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455073486503936/hosgeldin.mp3",
+  "staffSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455065609076806/yetkili.mp3"
+}
